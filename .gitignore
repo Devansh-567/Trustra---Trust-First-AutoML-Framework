@@ -1,0 +1,25 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-selfcheck.json
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Reports
+trustra_report.html
+veritas_report.html
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
